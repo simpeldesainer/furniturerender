@@ -1,0 +1,1 @@
+Place your cropped image renders here as angle_1.png, angle_2.png, angle_3.png, and angle_4.png
